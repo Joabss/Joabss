@@ -9,7 +9,7 @@ Systems Specialist with over 12 years of experience in system analysis and devel
 * 🌍  I'm based in São Paulo
 * ✉️  You can contact me at [joabeo@gmail.com](mailto:joabeo@gmail.com)
 * 🧠  I'm learning Python
-* ⚡  Runner
+* ⚡  https://joabss.github.io/joabe/
 
 ### Skills
 
